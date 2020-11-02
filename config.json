@@ -1,6 +1,9 @@
 {
   "servers":
   [
-    
+    {
+      "server-id":"0",
+      "logs-channel-id":"0"
+    }
   ]
 }

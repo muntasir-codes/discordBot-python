@@ -77,4 +77,4 @@ def w_json():
   json.dump(conf,outfile,indent=2)
 
 #client.loop.create_task(fetch())
-client.run('NzcwNjcxNjM4NjgwNDM2NzU2.X5g95Q.B7XxM5rzRowNLbUTVzMOcFMRqrQ')
+client.run('')

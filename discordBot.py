@@ -108,4 +108,4 @@ async def unban(ctx, *, member):
  			await ctx.guild.unban(user)
  			await ctx.channel.send(f"Unbanned: {user.mention}")
              
-client.run('NzcwNjcxNjM4NjgwNDM2NzU2.X5g95Q.B7XxM5rzRowNLbUTVzMOcFMRqrQ')
+client.run('')

@@ -1,2 +1,2 @@
 # discordBot-python
-use the code at your own risk. i did not review it for years.
+Simple discord bot. Use the code at your own risk. I did not review it for years.
